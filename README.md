@@ -1,4 +1,4 @@
-# django-simple-secrets
+# Django Simple Secrets
 
 A Django integration for AWS Secrets Manager with caching and lazy loading support.
 
