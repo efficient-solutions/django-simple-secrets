@@ -1,5 +1,5 @@
 """
-django_secrets.py: Module to access AWS Secrets Manager and manage secrets caching.
+secrets.py: Module to access AWS Secrets Manager and manage secrets caching.
 
 This module provides functions to retrieve secrets stored in AWS Secrets Manager,
 either directly or as lazy-loaded objects. It includes an optional caching mechanism
