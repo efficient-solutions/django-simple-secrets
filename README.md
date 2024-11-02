@@ -2,8 +2,9 @@
 
 A Django integration for AWS Secrets Manager with caching and lazy loading support.
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Django 4-5](https://img.shields.io/badge/django-4.x|5.x-green.svg)](https://www.djangoproject.com/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Django 4.x/5.x](https://img.shields.io/badge/Django-4.x|5.x-green.svg)](https://www.djangoproject.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/efficient-solutions/django-simple-secrets/blob/main/LICENSE)
 
 ## Overview
 
